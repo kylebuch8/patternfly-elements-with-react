@@ -1,3 +1,8 @@
+# PatternFly Elements with React
+
+This app demonstrates how to integrate [PatternFly Elements](https://github.com/patternfly/patternfly-elements) with React.
+
+---------
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
