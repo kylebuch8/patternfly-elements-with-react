@@ -1119,17 +1119,15 @@
     "@patternfly/pfe-sass" "^1.0.0-prerelease.16"
     "@patternfly/pfelement" "^1.0.0-prerelease.16"
 
-"@patternfly/pfe-layouts@^1.0.0-prerelease.16":
-  version "1.0.0-prerelease.16"
-  resolved "https://registry.yarnpkg.com/@patternfly/pfe-layouts/-/pfe-layouts-1.0.0-prerelease.16.tgz#6e50ee99a887d75abc95c7a4ed2970bdd49ac245"
-  integrity sha512-v8gpOr7RFjZiSw9HJluLl4pakPFnVLkVQYhB9suUVY+2djULY8WXd0PLecXUjuk2P3plrVKARzqt5Dog+BNiTw==
-  dependencies:
-    "@patternfly/pfe-sass" "^1.0.0-prerelease.16"
-
 "@patternfly/pfe-sass@^1.0.0-prerelease.16":
   version "1.0.0-prerelease.16"
   resolved "https://registry.yarnpkg.com/@patternfly/pfe-sass/-/pfe-sass-1.0.0-prerelease.16.tgz#a898046e4af5d42f3380a0edfd5a3ab8f9bb54da"
   integrity sha512-Da+d48kgddRW221rG3IFJRikuDj4Rcc29EcsQOMiZt6r4OAT7v9rBbD+Ggdfv9xamqmYiA2bqdQOKmbze3N2EQ==
+
+"@patternfly/pfe-styles@^1.0.0":
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/@patternfly/pfe-styles/-/pfe-styles-1.0.0.tgz#4bb10877377c94ac8f7ab232bfe28a2193272167"
+  integrity sha512-+90OE0ZWt0UZOOSnIZC5+DJnZvBkzAjCxjS7aqX0DpZfTIOc7NfsllUCb4lhuwPyUQOoknVNyJiwnKFhq1ei+w==
 
 "@patternfly/pfelement@^1.0.0-prerelease.16":
   version "1.0.0-prerelease.16"
@@ -3352,9 +3350,9 @@ domutils@^1.5.1, domutils@^1.7.0:
     domelementtype "1"
 
 dot-prop@^4.1.1:
-  version "4.2.0"
-  resolved "https://registry.yarnpkg.com/dot-prop/-/dot-prop-4.2.0.tgz#1f19e0c2e1aa0e32797c49799f2837ac6af69c57"
-  integrity sha512-tUMXrxlExSW6U2EXiiKGSBVdYgtV8qlHL+C10TsW4PURY/ic+eaysnSkwB4kA/mBlCyy/IKDJ+Lc3wbWeaXtuQ==
+  version "4.2.1"
+  resolved "https://registry.yarnpkg.com/dot-prop/-/dot-prop-4.2.1.tgz#45884194a71fc2cda71cbb4bceb3a4dd2f433ba4"
+  integrity sha512-l0p4+mIuJIua0mhxGoh4a+iNL9bmeK5DvnSVQa6T0OhrVmaEa1XScX5Etc673FePCJOArq/4Pa2cLGODUWTPOQ==
   dependencies:
     is-obj "^1.0.0"
 
